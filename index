@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>My Codeing Experience</h1>
+    <hr>
+    <p>I love to code, I was 6 years old when I first touched a Computer on my own so naturally I know alot about Computers. I might not know everything about computers but I have the ability to learn anything on comuters online or just basic sutff really fast. When it comes to advanced stuff that's when I start to have lots of fun even if I work alot slower due to confussion</p>
+    <h2>The Way I Learn To Code</h2>
+    <p>When Im new to a language or computer program I watch other people use it or look at some of there source code for reference of the many tiny projects I do I love to share my code and see other people have fun useing my code it brings me genuine happyness.</p>
+    <img src="type-fuhsdiuvgascjifgadvsvsyfvgahsrhfp.gif">
+    <h2>Most Of The Code I Know</h2>
+    <ul>
+      <li>Some C#</li>
+      <li>Some C++</li>
+      <li>Quite a bit of AHK</li>
+      <li>Little more then some on JavaSkript (mainly text format)</li>
+      <li>I can read basic Java (Can't write it yet)</li>
+      <li>I know a bit of Command Prompt</li>
+      <li>Alot of HTML</li>
+      <li>Only geting better at CSS</li>
+      <li>I know almost everything about windows</li>
+    </ul>
+    <h2>Why Im Here</h2>
+    <p>Im here to well... to get credts but also hopeing to learn something new and useful I want to be a professional programmer cause I know they pay alot and this what I love and this is what im good at. ;)</p>
+    <hr>
+    <h1>Other Websites</h1>
+    <br>
+    <a href="https://studio.code.org/projects/applab/j4q073PxMQ4zL3ewH99WMZfKxMGRtncZPkDgEXbC5Bo/edit">Project1</a>
+    <br>
+    <embed type="index/html" src="project1.html" width="300" height="200">
+  </body>
+</html>
